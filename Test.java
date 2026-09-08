@@ -5,6 +5,6 @@ public class Test {
         SingletonDesignPattern s1 = SingletonDesignPattern.getInstance();
         System.out.println(s.hashCode());
         System.out.println(s1.hashCode());
-    }
+    System.out.println(10/3);    }
     
 }

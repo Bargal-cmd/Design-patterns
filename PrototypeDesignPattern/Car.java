@@ -1,5 +1,6 @@
 
 package PrototypeDesignPattern;
+
 public class Car implements  Prototype{
   private String brand;
   private String model;
@@ -15,8 +16,8 @@ public class Car implements  Prototype{
   }
 
 @Override 
-    public Car clone(){
-      return new Car(this.brand, this.model, this.color, this.topSpeed);
+    public Prototype clone(){
+      return new Car(brand, model, color, topSpeed);
     }
     
 

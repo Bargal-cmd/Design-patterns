@@ -43,3 +43,6 @@ Facade Pattern complex system ke multiple classes/methods ke liye ek simple inte
 
 4. Flyweight Design Pattern
 Flyweight Pattern common/reusable data ko share karke memory usage reduce karta hai.
+
+5. Adapter Design Pattern
+Adapter Pattern do incompatible interfaces/classes ko compatible banata hai, taaki existing code bina modify kiye saath mein kaam kar sake.

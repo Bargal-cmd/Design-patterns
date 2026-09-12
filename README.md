@@ -46,3 +46,11 @@ Flyweight Pattern common/reusable data ko share karke memory usage reduce karta 
 
 5. Adapter Design Pattern
 Adapter Pattern do incompatible interfaces/classes ko compatible banata hai, taaki existing code bina modify kiye saath mein kaam kar sake.
+
+===============================================================================
+
+Behavioral Design Patterns
+
+
+1. Strategy Design Pattern
+Strategy Pattern different algorithms/behaviors ko separate classes mein define karta hai aur runtime par required strategy ko choose karne deta hai.
